@@ -31,7 +31,9 @@ const SocialIcon = styled.div`
     justify-content: center;
     margin-right: 20px;
 `;
+const Title = styled.h3``
 
+const ListItem = styled.li``
 const Center = styled.div`
     flex: 1;
     padding: 20px;
