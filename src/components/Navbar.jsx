@@ -70,7 +70,7 @@ const Navbar = () => {
                     </SearchContainer>
                 </Left>
                 <Center>
-                    <Logo>September The 3rd.</Logo>
+                    <Logo>SEPTEMBER THE 3RD.</Logo>
                 </Center>
                 <Right>
                     <MenuItem>REGISTER </MenuItem>
